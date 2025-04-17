@@ -3,5 +3,11 @@ def newfunction():
 
 newfunction()
 
+def newfunction2():
+    print("Hello, World!")
+
+newfunction2()
+
+
 
 
