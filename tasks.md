@@ -23,4 +23,4 @@ lodash version: 10.9.0
 express version: 10.9.0
 Узнал минимальную версию пакета express при помощи команды npm view express versions (0.14.0)
 
-4. Создал ветку feature, сейчас буду сливать ее воедино с main
+4. Создал ветку feature, сейчас буду сливать ее воедино main
